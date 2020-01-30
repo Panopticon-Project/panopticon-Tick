@@ -15,3 +15,5 @@ https://gsec.hitb.org/materials/sg2019/D1%20COMMSEC%20-%20Tick%20Group%20-%20Act
 https://threatpost.com/virus-bulletin-japanese-attacks-apt-strategygy/148859/
 
 https://blog.trendmicro.com/trendlabs-security-intelligence/operation-endtrade-finding-multi-stage-backdoors-that-tick/
+
+https://www.scmagazine.com/home/security-news/apts-cyberespionage/mitsubishi-electric-discloses-june-2019-breach-tick-hacking-group-reportedly-blamed/
