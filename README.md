@@ -29,3 +29,5 @@ https://apnews.com/2e85904379adc4fa30ebc6aba3eb4d55
 https://www.securityweek.com/least-10-threat-actors-targeting-recent-microsoft-exchange-vulnerabilities
 
 https://www.securityweek.com/japan-says-chinese-military-likely-behind-cyberattacks
+
+https://securityaffairs.co/wordpress/117396/apt/china-linked-apt-russia-contractor.html?utm_source=rss
