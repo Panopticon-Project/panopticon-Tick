@@ -31,3 +31,5 @@ https://www.securityweek.com/least-10-threat-actors-targeting-recent-microsoft-e
 https://www.securityweek.com/japan-says-chinese-military-likely-behind-cyberattacks
 
 https://securityaffairs.co/wordpress/117396/apt/china-linked-apt-russia-contractor.html?utm_source=rss
+
+https://cybernews.com/security/10-apt-groups-that-joined-the-ms-exchange-exploitation-party/
