@@ -33,3 +33,5 @@ https://www.securityweek.com/japan-says-chinese-military-likely-behind-cyberatta
 https://securityaffairs.co/wordpress/117396/apt/china-linked-apt-russia-contractor.html?utm_source=rss
 
 https://cybernews.com/security/10-apt-groups-that-joined-the-ms-exchange-exploitation-party/
+
+https://assets.sentinelone.com/c/Shadowpad?x=P42eqA
